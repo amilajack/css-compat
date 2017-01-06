@@ -1,6 +1,6 @@
 {
   "name": "css-compat",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Find a list of browsers that support a given css rule and property",
   "main": "lib/index.js",
   "repository": {
